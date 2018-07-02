@@ -1,0 +1,6 @@
+K:\Programming\GladServer\GladServer\bin\Debug\GladServer.exe.config
+K:\Programming\GladServer\GladServer\obj\Debug\GladServer.csprojResolveAssemblyReference.cache
+K:\Programming\GladServer\GladServer\bin\Debug\GladServer.exe
+K:\Programming\GladServer\GladServer\bin\Debug\GladServer.pdb
+K:\Programming\GladServer\GladServer\obj\Debug\GladServer.exe
+K:\Programming\GladServer\GladServer\obj\Debug\GladServer.pdb
